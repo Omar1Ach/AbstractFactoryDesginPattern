@@ -1,0 +1,14 @@
+C:\Users\Predator\source\repos\Design Pattern\Design Pattern\obj\Debug\net8.0\Abstract Factory Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Predator\source\repos\Design Pattern\Design Pattern\obj\Debug\net8.0\Abstract Factory Design Pattern.AssemblyInfoInputs.cache
+C:\Users\Predator\source\repos\Design Pattern\Design Pattern\obj\Debug\net8.0\Abstract Factory Design Pattern.AssemblyInfo.cs
+C:\Users\Predator\source\repos\Design Pattern\Design Pattern\obj\Debug\net8.0\Abstract Factory Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Predator\source\repos\Design Pattern\Design Pattern\bin\Debug\net8.0\Abstract Factory Design Pattern.exe
+C:\Users\Predator\source\repos\Design Pattern\Design Pattern\bin\Debug\net8.0\Abstract Factory Design Pattern.deps.json
+C:\Users\Predator\source\repos\Design Pattern\Design Pattern\bin\Debug\net8.0\Abstract Factory Design Pattern.runtimeconfig.json
+C:\Users\Predator\source\repos\Design Pattern\Design Pattern\bin\Debug\net8.0\Abstract Factory Design Pattern.dll
+C:\Users\Predator\source\repos\Design Pattern\Design Pattern\bin\Debug\net8.0\Abstract Factory Design Pattern.pdb
+C:\Users\Predator\source\repos\Design Pattern\Design Pattern\obj\Debug\net8.0\Abstract Factory Design Pattern.dll
+C:\Users\Predator\source\repos\Design Pattern\Design Pattern\obj\Debug\net8.0\refint\Abstract Factory Design Pattern.dll
+C:\Users\Predator\source\repos\Design Pattern\Design Pattern\obj\Debug\net8.0\Abstract Factory Design Pattern.pdb
+C:\Users\Predator\source\repos\Design Pattern\Design Pattern\obj\Debug\net8.0\Abstract Factory Design Pattern.genruntimeconfig.cache
+C:\Users\Predator\source\repos\Design Pattern\Design Pattern\obj\Debug\net8.0\ref\Abstract Factory Design Pattern.dll
